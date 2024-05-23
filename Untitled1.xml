@@ -2,17 +2,7 @@
 <order>
     <order_id>73645</order_id>
     <date>2024-05-17</date>
-    <customer>
-        <name>Волкова Марія</name>
-        <email>maria01@gmail.com.com</email>
-        <phone>+380583657488</phone>
-        <address>
-            <street>вул. Сумська 20</street>
-            <city>Харків</city>
-            <postal_code>61000</postal_code>
-            <country>Україна</country>
-        </address>
-    </customer>
+   
     <items>
         <item>
             <item_id>001</item_id>
